@@ -23,7 +23,8 @@ Open terminal and try execute some kali linux commands
 ## EXECUTION STEPS AND ITS OUTPUT:
 
 Find out the ip address of the attackers system
-
+## NAME:N V MOHANA KRISHNA
+## REG NO:212224100039
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/a1112969-a0fc-4a6d-a61e-0ca3d7798e4d)
 
